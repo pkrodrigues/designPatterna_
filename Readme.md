@@ -11,6 +11,6 @@ O Memento é um padrão de projeto comportamental que permite que você salve e 
 ### 3.6.2 Exemplo abordado
 Para tal padrão de projeto, implementei um exemplo de reserva de hotel.
 
-### 3.4.3 Diagrama de Classe do Exemplo
+### 3.6.3 Diagrama de Classe do Exemplo
 
 ![img.png](img.png)
