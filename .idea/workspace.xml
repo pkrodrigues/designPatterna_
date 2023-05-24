@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ba032b1c-8f9e-448f-b8dc-a1c6ba907036" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/comportamentais/QuartoEstadoCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/comportamentais/QuartoEstadoCheckout.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/comportamentais/QuartoEstadoOculpado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/comportamentais/QuartoEstadoVazio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/QuartoTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,6 +50,55 @@
       <recent name="designpattern.comportamentais" />
     </key>
   </component>
+  <component name="RunManager" selected="JUnit.QuartoTest.deveAmarzenarAnterior">
+    <configuration name="QuartoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ChainOfResponsibility" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="QuartoTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuartoTest.deveAmarzenarAnterior" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ChainOfResponsibility" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="QuartoTest" />
+      <option name="METHOD_NAME" value="deveAmarzenarAnterior" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuartoTest.deveAmarzenarEstados" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ChainOfResponsibility" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="QuartoTest" />
+      <option name="METHOD_NAME" value="deveAmarzenarEstados" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuartoTest.deveRetornarExecaoIndiceInvalido" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ChainOfResponsibility" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="QuartoTest" />
+      <option name="METHOD_NAME" value="deveRetornarExecaoIndiceInvalido" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.QuartoTest.deveAmarzenarAnterior" />
+        <item itemvalue="JUnit.QuartoTest.deveAmarzenarEstados" />
+        <item itemvalue="JUnit.QuartoTest.deveRetornarExecaoIndiceInvalido" />
+        <item itemvalue="JUnit.QuartoTest" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -63,5 +109,57 @@
       <updated>1684802223391</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/QuartoTest.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/QuartoTest.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/QuartoTest.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/QuartoTest.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/QuartoTest.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/QuartoTest.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/QuartoTest.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

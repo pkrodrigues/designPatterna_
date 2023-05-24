@@ -1,16 +1,15 @@
-# Padrões de Projeto
-
 ## 3. Padrões comportamentais:
 
 ---
 
-### 3.4 Interator
+### 3.6 Memento
 
-### 3.4.1 Introdução
+### 3.6.1 Introdução
 
-A Cadeia de Responsabilidade é um padrão de design comportamental que permite que você passe solicitações ao longo de uma cadeia de manipuladores. Ao receber uma solicitação, cada manipulador decide processar a solicitação ou passá-la para o próximo manipulador na cadeia.
-### 3.4.2 Exemplo abordado
-Para o exemplo busquei implementar um monitarador de quartos, podemos indeticar a quantidade de quartos vagos em hotel.
+O Memento é um padrão de projeto comportamental que permite que você salve e restaure o estado anterior de um objeto sem revelar os detalhes de sua implementação.
+
+### 3.6.2 Exemplo abordado
+Para tal padrão de projeto, implementei um exemplo de reserva de hotel.
 
 ### 3.4.3 Diagrama de Classe do Exemplo
 
