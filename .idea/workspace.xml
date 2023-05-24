@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ba032b1c-8f9e-448f-b8dc-a1c6ba907036" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/comportamentais/Quarto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/comportamentais/QuartoEstado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/comportamentais/QuartoEstadoReservado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/comportamentais/QuartoEstadoCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/comportamentais/QuartoEstadoCheckout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/comportamentais/QuartoEstadoOculpado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/comportamentais/QuartoEstadoVazio.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
